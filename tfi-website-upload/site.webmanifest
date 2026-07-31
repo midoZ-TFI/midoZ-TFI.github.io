@@ -1,0 +1,13 @@
+{
+  "name": "The Fitness Initiative",
+  "short_name": "TFI",
+  "description": "Rochester nonprofit providing free fitness and nutrition programming to economically disadvantaged individuals of all abilities.",
+  "icons": [
+    { "src": "/web-app-manifest-192x192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "/web-app-manifest-512x512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ],
+  "theme_color": "#0f2c52",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "start_url": "/"
+}
